@@ -1,2 +1,2 @@
 # drum-kit-practice
-Drum kit web page with jQuery implementation
+Drum kit web page with Javascript implementation
